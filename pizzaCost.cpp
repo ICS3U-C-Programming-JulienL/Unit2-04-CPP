@@ -28,5 +28,5 @@ int main() {
     roundedTotal = round(total * 100.0) / 100.0;
 
     // display the total
-    std ::cout << "Your total cost is $" << roundedTotal << std::endl;
+    std ::cout << "Your total cost is $" << roundedTotal << "." << std::endl;
 }
